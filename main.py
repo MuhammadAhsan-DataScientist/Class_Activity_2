@@ -8,5 +8,5 @@ class  StudMlops:
 		self.total -= count
 	def totals():
 		return self.total
-	def getclass()
+	def getclass():
 		return self.cname
